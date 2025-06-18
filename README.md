@@ -4,6 +4,8 @@ Anime lovers (newbies & vets), **find your perfect next watch** with smart filte
 
 ![Path-to-Anime]
 
+Download Now from Chrome Store - [https://chromewebstore.google.com/detail/path-to-anime/hmkdpjckcgcmhbdpiimkaddjhhfcgbpg?hl=en-US&utm_source=ext_sidebar]
+
 ## 🚀 What is Path-to-Anime?
 
 Tired of endlessly scrolling through anime lists or rewatching the same shows? **Path-to-Anime** is a Chrome extension built to help you discover your next favorite anime in seconds — whether you're brand new to anime or a long-time otaku.
