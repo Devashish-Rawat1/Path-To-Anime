@@ -4,7 +4,8 @@ Anime lovers (newbies & vets), **find your perfect next watch** with smart filte
 
 ![Path-to-Anime]
 
-Download Now from Chrome Store - [https://chromewebstore.google.com/detail/path-to-anime/hmkdpjckcgcmhbdpiimkaddjhhfcgbpg?hl=en-US&utm_source=ext_sidebar]
+Download Now from Chrome Store - 
+[https://chromewebstore.google.com/detail/path-to-anime/hmkdpjckcgcmhbdpiimkaddjhhfcgbpg?hl=en-US&utm_source=ext_sidebar]
 
 ## 🚀 What is Path-to-Anime?
 
